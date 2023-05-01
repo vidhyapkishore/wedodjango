@@ -6,9 +6,7 @@ WeDoDjango is a simple ToDo app built with React, Bootstrap and Django.
 
 - User authentication and registration
 - Create, read, update and delete tasks
-- Tasks can have a title, description, deadline, and priority level
 - Tasks can be marked as completed
-- Tasks can be filtered by priority and completion status
 
 ## Technologies Used
 
