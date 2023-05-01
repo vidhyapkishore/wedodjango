@@ -1,0 +1,35 @@
+
+.textboxtodo{ 
+    background-image: linear-gradient(to left, #b001f9 , #7602f0);
+    width: 100%;
+    margin:2%;
+    padding: 15px;
+    border-radius: 7px;
+    border: none;
+    color: white;
+
+}
+.liststyle{list-style-type: none;}
+.fl{
+    background-color: transparent;
+    border: none;
+}
+.add{
+    border: 3px solid #7602f0;
+    padding: 15px;
+    width: 50%;
+    margin: 0 0 9px 0;
+}
+.addbutton{
+    padding: 18px;
+    margin: -10px;
+    background-image: linear-gradient(to left, #b001f9 , #7602f0);
+    border: none;
+    color: white;
+}
+.boxbg{background-color: #242748;}
+body{background-color: #b001f9;}
+
+.colorwhite{
+    color: white;
+}
